@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anujvdev2020
-- 👀 I’m interested in Rect,JavaScript.
+- 👀 I’m interested in React,JavaScript.
 - 🌱 I’m currently learning ...
 - 📫Reach out to me ... anujvdev2020@gmail.com
 - Link to Codewars badge https://www.codewars.com/users/anujvdev2020/badges/large
